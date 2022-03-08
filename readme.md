@@ -1,6 +1,6 @@
 # Raspberrypi Rotary Menu and Stats Display
 
-![Raspberry logo](images/Raspberry_Pi_Logo.svg)<!-- .element height="20%" width="20%" -->
+![Raspberry logo](images/Raspberry_Pi_Logo.png)<!-- .element height="20%" width="20%" -->
 
 ---
 
