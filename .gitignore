@@ -108,3 +108,5 @@ dist
 /.keys
 
 /.vscode
+
+/.venv
