@@ -1,6 +1,6 @@
 # Raspberrypi Rotary Menu and Stats Display<img align="center" width="50px" height="50px" src="images/Raspberry_Pi_Logo.png">
 
----
+***
 
 Firstly, you have to download the [`luma oled`](https://luma-oled.readthedocs.io/en/latest/) and select the right display in your code (the one you are using)***Mine was the SH1106***.
 
